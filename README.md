@@ -1,11 +1,11 @@
 # i3-chromium-webapp-refresh-popups
 refresh webapp popups for chromium based browsers to keep the session up-to-date! Used for traffic monitoring on google maps!
 
-# Dependencies: watch & xdotool
+# dependencies
 * watch
 * xdotool
 
-# Focused application:
+# application
 * Chromium based browser (webapps) <- specifically webapps
 
 ## add refresh_webapp_popups.sh to a directory

@@ -21,5 +21,7 @@ ctrl+c to exit
 watch -n 10 ~/.config/i3/scripts/refresh_webapp_popups.sh
 ```
 
-## add line to i3 config.. adjust # depending on rate you'd like to refresh visible webapps
+## add line to i3 config
+adjust # depending on rate you'd like to refresh visible webapps
+
 * exec_always --no-startup-id watch -n 300 ~/.config/i3/scripts/refresh_webapp_popups.sh
